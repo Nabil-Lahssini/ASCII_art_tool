@@ -4,7 +4,7 @@ The ascii_art is an open-source library that helps you convert any image into an
 ## How to get it ?
 The ascii_art is a python package that you can simply install using the following command:
 ```
-pip install ascii_art
+pip install ASCII-art-tool
 ```
 ## How to use it ?
 To use our library in your code, you need to import it and intialize it, that's all. It's easy !
