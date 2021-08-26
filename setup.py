@@ -9,7 +9,7 @@ README = (HERE / "README.md").read_text()
 
 setup(
     name="ASCII_art_tool",
-    version="1.0.0",
+    version="1.0.1",
     description="The ASCII art tool is a simple library to generate ASCII art from regular images.",
     long_description=README,
     long_description_content_type="text/markdown",
