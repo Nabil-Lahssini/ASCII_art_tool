@@ -10,14 +10,14 @@ pip install ascii_art
 To use our library in your code, you need to import it and intialize it, that's all. It's easy !
 ```
 ## Import the library
-from ascii_art import ascii_generator
+from ascii_art import generator
 
 ## Declaring the path of the input file and the output
-input = "C:/Users/Default/Desktop/image.jpg"
+input = "C:/Users/default/Desktop/image.jpg"
 output = "./ascii_art.txt"
 
 ## Intialize an instance of the library
-instance = ascii_generator.Generator(input=input, output=output)
+instance = generator.Generator(input=input, output=output)
 
 ## Execute the art 
 instance.execute()

@@ -22,6 +22,6 @@ setup(
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.7",
     ],
-    packages=["ascii_generator"],
+    packages=["ascii_art"],
     install_requires=[],
 )
